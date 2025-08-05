@@ -1,0 +1,22 @@
+From 46346789f454e6f5e983441c8a18bb19e559ae40 Mon Sep 17 00:00:00 2001
+From: HARIVIGNESHRAO <harivigneshrao151@gmail.com>
+Date: Tue, 5 Aug 2025 18:52:47 +0530
+Subject: [PATCH] model12
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 2da03f9..1db13ee 100644
+--- a/index.html
++++ b/index.html
+@@ -1,4 +1,4 @@
+-<!DOCTYPE html>
++fmzkfm<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+-- 
+2.46.0.windows.1
+
